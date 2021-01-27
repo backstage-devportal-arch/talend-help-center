@@ -1,0 +1,8 @@
+site_name: "Talend-help-center"
+site_description: "This documentation gathers all the Talend official topics."
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
